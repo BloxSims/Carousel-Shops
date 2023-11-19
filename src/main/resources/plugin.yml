@@ -1,0 +1,4 @@
+name: security
+version: '${version}'
+main: net.bloxsims.security.Security
+api-version: '1.20'
